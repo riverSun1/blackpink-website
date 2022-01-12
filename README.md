@@ -1,4 +1,4 @@
-# blackpink_webpage
+# blackpink_website
 
 * 블랙핑크 웹사이트
 * 2019년(1학년 1학기)에 제작  
